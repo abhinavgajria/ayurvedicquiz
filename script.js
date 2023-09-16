@@ -1,7 +1,7 @@
 const questions = [
     
     {
-        question: "what are the main ingirdients in Amritarishta?",
+        question: "What are the main ingirdients in Amritarishta?",
         answeres: [
             { text: "SarvaJvara, Jirna Jvara", correct: true},
             { text: "	Arsha, Agnimandya, Udararoga, Vibandha", correct: false},
